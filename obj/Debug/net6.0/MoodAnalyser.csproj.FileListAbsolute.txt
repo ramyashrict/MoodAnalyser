@@ -1,0 +1,5 @@
+C:\Users\Admin\bridgelab\csharpprograms\MoodAnalyser\MoodAnalyser\obj\Debug\net6.0\MoodAnalyser.csproj.AssemblyReference.cache
+C:\Users\Admin\bridgelab\csharpprograms\MoodAnalyser\MoodAnalyser\obj\Debug\net6.0\MoodAnalyser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\bridgelab\csharpprograms\MoodAnalyser\MoodAnalyser\obj\Debug\net6.0\MoodAnalyser.AssemblyInfoInputs.cache
+C:\Users\Admin\bridgelab\csharpprograms\MoodAnalyser\MoodAnalyser\obj\Debug\net6.0\MoodAnalyser.AssemblyInfo.cs
+C:\Users\Admin\bridgelab\csharpprograms\MoodAnalyser\MoodAnalyser\obj\Debug\net6.0\MoodAnalyser.csproj.CoreCompileInputs.cache
